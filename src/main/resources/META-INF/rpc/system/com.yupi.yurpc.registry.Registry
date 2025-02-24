@@ -1,0 +1,2 @@
+etcd=com.kana.rpc.registry.EtcdRegistry
+zookeeper=com.kana.rpc.registry.ZooKeeperRegistry

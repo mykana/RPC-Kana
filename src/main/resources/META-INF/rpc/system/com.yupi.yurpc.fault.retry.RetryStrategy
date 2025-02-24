@@ -1,0 +1,2 @@
+no=com.kana.rpc.fault.retry.NoRetryStrategy
+fixedInterval=com.kana.rpc.fault.retry.FixedIntervalRetryStrategy

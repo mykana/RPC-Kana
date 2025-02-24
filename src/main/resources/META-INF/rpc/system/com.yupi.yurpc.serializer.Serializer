@@ -1,0 +1,4 @@
+jdk=com.kana.rpc.serializer.JdkSerializer
+hessian=com.kana.rpc.serializer.HessianSerializer
+json=com.kana.rpc.serializer.JsonSerializer
+kryo=com.kana.rpc.serializer.KryoSerializer

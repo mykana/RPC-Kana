@@ -1,0 +1,4 @@
+failBack=com.kana.rpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.kana.rpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.kana.rpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.kana.rpc.fault.tolerant.FailSafeTolerantStrategy
